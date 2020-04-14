@@ -24,4 +24,10 @@ layout: default
   {%- endif -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+
+  {% for js in page.jsviz %}
+     <script type="text/javascript">
+      {% include {{ js }} %}
+     </script>
+  {% endfor %}
 </article>
