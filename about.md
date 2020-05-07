@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-From a graduate student at Purdue
-
 This blog is meant to be a way to publish notes on academic subjects (mainly in ML, stats).
 Posts will be written with the objective of clear exposition of theory through intuitive explanations and demonstrations.
 
